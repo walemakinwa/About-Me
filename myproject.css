@@ -1,0 +1,17 @@
+p{font-size: 30px;
+    font-family: fantasy;
+    font-style: normal;
+    color:blue;
+    background-color: black;
+    line-height: 30px;
+}
+
+.myimage{
+/* position: absolute;
+display: block; */
+width: 100px;
+height: 100px;
+background-color:turquoise ;
+background-image: url("./ASSET/images/35bc9bc9-88ac-43bd-8246-4aaebead320d.jpg");
+background-size: contain;
+}
